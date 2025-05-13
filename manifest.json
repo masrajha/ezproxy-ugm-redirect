@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "UGM EZProxy Redirect",
+  "version": "2.0",
+  "description": "Redirect academic resources through UGM EZProxy",
+  "permissions": ["contextMenus", "tabs"],
+  "host_permissions": [
+    "*://ieeexplore.ieee.org/*",
+    "*://www.sciencedirect.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
