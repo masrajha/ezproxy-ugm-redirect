@@ -1,11 +1,8 @@
-Berikut adalah file README.md untuk ekstensi tersebut:
-
-```markdown
 # UGM EZProxy Redirect Extension
 
-**Author**: Didik Kurniawan  
-**Versi**: 2.0  
-**Kompatibel dengan**: Google Chrome & Microsoft Edge (Chromium-based)
+Author: Didik Kurniawan  
+Versi: 2.0  
+Kompatibel dengan: Google Chrome & Microsoft Edge (Chromium-based)
 
 ## Deskripsi Plugin
 Ekstensi ini memungkinkan akses ke sumber akademik melalui proxy UGM EZProxy dengan mudah. Saat ini mendukung platform:
