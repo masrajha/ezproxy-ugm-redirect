@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "UGM EZProxy Redirect",
-  "version": "2.0",
+  "version": "2.1",
   "description": "Redirect academic resources through UGM EZProxy",
   "permissions": ["contextMenus", "tabs"],
   "host_permissions": [
