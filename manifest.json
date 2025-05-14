@@ -6,7 +6,8 @@
   "permissions": ["contextMenus", "tabs"],
   "host_permissions": [
     "*://ieeexplore.ieee.org/*",
-    "*://www.sciencedirect.com/*"
+    "*://www.sciencedirect.com/*",
+    "*://link.springer.com/*"
   ],
   "background": {
     "service_worker": "background.js"
