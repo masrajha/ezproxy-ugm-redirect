@@ -13,6 +13,9 @@ Ekstensi ini memungkinkan akses ke sumber akademik melalui proxy UGM EZProxy den
 2. ScienceDirect  
    `www.sciencedirect.com` → `www-sciencedirect-com.ezproxy.ugm.ac.id`
 
+3. Springer Link  
+   `link.springer.com` → `link-springer-com.ezproxy.ugm.ac.id`
+   
 Fitur:
 - Redirect melalui menu klik kanan
 - Mempertahankan path URL asli
