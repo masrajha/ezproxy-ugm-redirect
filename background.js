@@ -2,7 +2,8 @@
 const proxyMap = {
   // Format: original-domain: proxy-domain
   'ieeexplore.ieee.org': 'ieeexplore-ieee-org.ezproxy.ugm.ac.id',
-  'www.sciencedirect.com': 'www-sciencedirect-com.ezproxy.ugm.ac.id'
+  'www.sciencedirect.com': 'www-sciencedirect-com.ezproxy.ugm.ac.id',
+  'link.springer.com':'link-springer-com.ezproxy.ugm.ac.id'
 };
 
 // Membuat menu konteks
